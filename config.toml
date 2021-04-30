@@ -1,28 +1,3 @@
-baseURL = ""
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "kavin"
-theme = "hallo"
-
-[Author]
-    name = "Kavin Kumar"
-
-[params]
-    [[params.links]]
-        icon = "github"
-        title = "Github"
-        url = "https://github.com/kavinkumar999"
-
-    [[params.links]]
-        icon = "twitter"
-        title = "Github"
-        url = "#"
-    
-    [[params.links]]
-        icon = "instagram"
-        title = "Github"
-        url = "#"
-    
-    [[params.links]]
-        icon = "linkedin"
-        title = "Github"
-        url = "www.linkedin.com/in/kavin-kumar-1999k"
+title = "My New Hugo Site"
